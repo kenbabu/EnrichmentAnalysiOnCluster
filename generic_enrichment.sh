@@ -37,4 +37,4 @@
 
 
 
-python /home/oppken001/PhD2019/EnrichmentAnalysis/HPOEnrichment.py  -dd /home/oppken001/PhD2019/2018Data -bs 2
+python /home/oppken001/PhD2019/EnrichmentAnalysis/Scripts/GenericEnrichment.py  -dd /home/oppken001/PhD2019/2018Data -bs 2
