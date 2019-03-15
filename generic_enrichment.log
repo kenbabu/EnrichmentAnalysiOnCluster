@@ -1,0 +1,84 @@
+2019-03-15 16:27:31,784  INFO       MainProcess  root Started...
+2019-03-15 16:27:31,784  INFO       MainProcess  root Analysis background set: WikiPathways_2016
+2019-03-15 16:37:48,623  INFO       MainProcess  root Started...
+2019-03-15 16:37:48,637  INFO       MainProcess  root Analysis background set: WikiPathways_2016
+2019-03-15 16:37:52,566  INFO       MainProcess  root Start processing C0000727
+2019-03-15 16:37:52,567  INFO       MainProcess  gseapy Connecting to Enrichr Server to get latest library names
+2019-03-15 16:37:53,593  INFO       MainProcess  gseapy Libraries are used: WikiPathways_2016
+2019-03-15 16:37:53,594  INFO       MainProcess  gseapy Analysis name: WikiPathways_2016_Enrichment, Enrichr Library: WikiPathways_2016
+2019-03-15 16:37:58,672  INFO       MainProcess  gseapy Save file of enrichment results: Job Id:9c316
+2019-03-15 16:37:59,034  INFO       MainProcess  gseapy Done.
+
+2019-03-15 16:37:59,034  INFO       MainProcess  root Finish processing C0000727
+2019-03-15 16:37:59,035  INFO       MainProcess  root Start processing C0000731
+2019-03-15 16:37:59,035  INFO       MainProcess  gseapy Connecting to Enrichr Server to get latest library names
+2019-03-15 16:37:59,785  INFO       MainProcess  gseapy Libraries are used: WikiPathways_2016
+2019-03-15 16:37:59,786  INFO       MainProcess  gseapy Analysis name: WikiPathways_2016_Enrichment, Enrichr Library: WikiPathways_2016
+2019-03-15 16:38:04,902  INFO       MainProcess  gseapy Save file of enrichment results: Job Id:9c318
+2019-03-15 16:38:04,906  INFO       MainProcess  gseapy Done.
+
+2019-03-15 16:38:04,906  INFO       MainProcess  root Finish processing C0000731
+2019-03-15 16:38:04,906  INFO       MainProcess  root Start processing C0000735
+2019-03-15 16:38:04,906  INFO       MainProcess  gseapy Connecting to Enrichr Server to get latest library names
+2019-03-15 16:38:05,652  INFO       MainProcess  gseapy Libraries are used: WikiPathways_2016
+2019-03-15 16:38:05,653  INFO       MainProcess  gseapy Analysis name: WikiPathways_2016_Enrichment, Enrichr Library: WikiPathways_2016
+2019-03-15 16:38:10,735  INFO       MainProcess  gseapy Save file of enrichment results: Job Id:9c319
+2019-03-15 16:38:10,739  INFO       MainProcess  gseapy Done.
+
+2019-03-15 16:38:10,739  INFO       MainProcess  root Finish processing C0000735
+2019-03-15 16:38:10,739  INFO       MainProcess  root Start processing C0000737
+2019-03-15 16:38:10,739  INFO       MainProcess  gseapy Connecting to Enrichr Server to get latest library names
+2019-03-15 16:38:11,485  INFO       MainProcess  gseapy Libraries are used: WikiPathways_2016
+2019-03-15 16:38:11,486  INFO       MainProcess  gseapy Analysis name: WikiPathways_2016_Enrichment, Enrichr Library: WikiPathways_2016
+2019-03-15 16:38:16,857  INFO       MainProcess  gseapy Save file of enrichment results: Job Id:9c31a
+2019-03-15 16:38:16,863  INFO       MainProcess  gseapy Done.
+
+2019-03-15 16:38:16,863  INFO       MainProcess  root Finish processing C0000737
+2019-03-15 16:38:16,864  INFO       MainProcess  root Start processing C0000744
+2019-03-15 16:38:16,864  INFO       MainProcess  gseapy Connecting to Enrichr Server to get latest library names
+2019-03-15 16:38:17,612  INFO       MainProcess  gseapy Libraries are used: WikiPathways_2016
+2019-03-15 16:38:17,613  INFO       MainProcess  gseapy Analysis name: WikiPathways_2016_Enrichment, Enrichr Library: WikiPathways_2016
+2019-03-15 16:38:22,772  INFO       MainProcess  gseapy Save file of enrichment results: Job Id:9c31c
+2019-03-15 16:38:22,777  INFO       MainProcess  gseapy Done.
+
+2019-03-15 16:38:22,777  INFO       MainProcess  root Finish processing C0000744
+2019-03-15 16:38:22,777  INFO       MainProcess  root Start processing C0000768
+2019-03-15 16:38:22,778  INFO       MainProcess  gseapy Connecting to Enrichr Server to get latest library names
+2019-03-15 16:38:23,519  INFO       MainProcess  gseapy Libraries are used: WikiPathways_2016
+2019-03-15 16:38:23,520  INFO       MainProcess  gseapy Analysis name: WikiPathways_2016_Enrichment, Enrichr Library: WikiPathways_2016
+2019-03-15 16:38:29,910  INFO       MainProcess  gseapy Save file of enrichment results: Job Id:9c31d
+2019-03-15 16:38:29,985  INFO       MainProcess  gseapy Done.
+
+2019-03-15 16:38:29,985  INFO       MainProcess  root Finish processing C0000768
+2019-03-15 16:38:29,985  INFO       MainProcess  root Start processing C0000786
+2019-03-15 16:38:29,986  INFO       MainProcess  gseapy Connecting to Enrichr Server to get latest library names
+2019-03-15 16:38:30,745  INFO       MainProcess  gseapy Libraries are used: WikiPathways_2016
+2019-03-15 16:38:30,745  INFO       MainProcess  gseapy Analysis name: WikiPathways_2016_Enrichment, Enrichr Library: WikiPathways_2016
+2019-03-15 16:38:37,233  INFO       MainProcess  gseapy Save file of enrichment results: Job Id:9c31g
+2019-03-15 16:38:37,240  INFO       MainProcess  gseapy Done.
+
+2019-03-15 16:38:37,240  INFO       MainProcess  root Finish processing C0000786
+2019-03-15 16:38:37,240  INFO       MainProcess  root Start processing C0000809
+2019-03-15 16:38:37,241  INFO       MainProcess  gseapy Connecting to Enrichr Server to get latest library names
+2019-03-15 16:38:38,016  INFO       MainProcess  gseapy Libraries are used: WikiPathways_2016
+2019-03-15 16:38:38,016  INFO       MainProcess  gseapy Analysis name: WikiPathways_2016_Enrichment, Enrichr Library: WikiPathways_2016
+2019-03-15 16:38:45,453  INFO       MainProcess  gseapy Save file of enrichment results: Job Id:9c31l
+2019-03-15 16:38:45,458  INFO       MainProcess  gseapy Done.
+
+2019-03-15 16:38:45,458  INFO       MainProcess  root Finish processing C0000809
+2019-03-15 16:38:45,458  INFO       MainProcess  root Start processing C0000821
+2019-03-15 16:38:45,458  INFO       MainProcess  gseapy Connecting to Enrichr Server to get latest library names
+2019-03-15 16:38:46,218  INFO       MainProcess  gseapy Libraries are used: WikiPathways_2016
+2019-03-15 16:38:46,218  INFO       MainProcess  gseapy Analysis name: WikiPathways_2016_Enrichment, Enrichr Library: WikiPathways_2016
+2019-03-15 16:38:51,236  INFO       MainProcess  gseapy Save file of enrichment results: Job Id:9c31m
+2019-03-15 16:38:51,237  INFO       MainProcess  gseapy Done.
+
+2019-03-15 16:38:51,238  INFO       MainProcess  root Finish processing C0000821
+2019-03-15 16:38:51,238  INFO       MainProcess  root Start processing C0000832
+2019-03-15 16:38:51,238  INFO       MainProcess  gseapy Connecting to Enrichr Server to get latest library names
+2019-03-15 16:38:51,988  INFO       MainProcess  gseapy Libraries are used: WikiPathways_2016
+2019-03-15 16:38:51,989  INFO       MainProcess  gseapy Analysis name: WikiPathways_2016_Enrichment, Enrichr Library: WikiPathways_2016
+2019-03-15 16:38:57,206  INFO       MainProcess  gseapy Save file of enrichment results: Job Id:9c31o
+2019-03-15 16:38:57,265  INFO       MainProcess  gseapy Done.
+
+2019-03-15 16:38:57,265  INFO       MainProcess  root Finish processing C0000832
