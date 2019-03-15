@@ -89,8 +89,8 @@ def main():
     #
     # df_ = df_high.iloc[ERROR_IDX:]
     #
-#    df_high['enrichment'] = df_high[['gene', 'disease']].apply(lambda x: calculate_enrichment(*x), axis=1 )
-    df_['enrichment'] = df_[['gene', 'disease']].apply(lambda x: calculate_enrichment(*x, background_set), axis=1 )
+    df_high['enrichment'] = df_high[['gene', 'disease']].apply(lambda x: calculate_enrichment(*x, background_set), axis=1 )
+    # df_['enrichment'] = df_[['gene', 'disease']].apply(lambda x: calculate_enrichment(*x, background_set), axis=1 )
 
 if __name__ == '__main__':
     main()
